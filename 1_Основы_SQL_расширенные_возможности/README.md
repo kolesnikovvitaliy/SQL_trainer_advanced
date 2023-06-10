@@ -3,10 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>
-<style>
+    <!-- <link rel="stylesheet" href="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/css/fonts.css"> -->
+    <style>
 .lesson-widget__cover-image {
     height: 45px;
     width: 45px;
@@ -53,7 +51,8 @@ a.lesson-widget__title-text {
     align-items: stretch;
 }
 </style>
-
+</head>
+<body>
 ## Основы SQL, расширенные возможности
 <div class="lesson-widget__content">
       <div class="lesson-widget__cover">
