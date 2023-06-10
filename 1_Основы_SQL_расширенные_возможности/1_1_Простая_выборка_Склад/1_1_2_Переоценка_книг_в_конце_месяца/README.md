@@ -27,3 +27,5 @@ ORDER BY Автор, Книга;
 Ответ базы данных:
 
 <img align="center" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/#">
+
+1_Основы SQL, расширенные возможности/1_1_Простая_выборка_Склад/1_1_2_Переоценка_книг_в_конце_месяца/img/res.png
