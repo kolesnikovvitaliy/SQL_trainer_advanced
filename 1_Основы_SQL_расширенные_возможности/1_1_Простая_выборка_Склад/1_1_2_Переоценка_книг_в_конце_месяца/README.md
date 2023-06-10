@@ -7,7 +7,7 @@
 
 Структура таблицы
 
-<img align="center" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/#">
+<img align="center" alt="sumit" src="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/1_1_Простая_выборка_Склад/1_1_2_Переоценка_книг_в_конце_месяца/img/cx_5_1.jpg">
 
 РЕШЕНИЕ ЗАДАЧИ:
 
@@ -26,5 +26,5 @@ ORDER BY Автор, Книга;
  ```
 Ответ базы данных:
 
-<img align="center" alt="sumit" width="40px" src="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/1_1_Простая_выборка_Склад/1_1_2_Переоценка_книг_в_конце_месяца/img/res.png">
+<img align="center" alt="sumit" src="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/1_1_Простая_выборка_Склад/1_1_2_Переоценка_книг_в_конце_месяца/img/res.png">
 
