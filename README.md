@@ -7,7 +7,11 @@
 # Конспект:
 ##  Курс Расширенные возможности: SQL на Stepik  
 ### В этом репозитории я документирую этапы прохождения кура и решаемые мной задачи.
-
+## Курс состоит из трех разделов:
+1. <a href="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/tree/main/1_Основы_SQL_расширенные_возможности">Основы SQL, расширенные возможности</a>
+2. <a href="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/tree/main/1_Основы_SQL_расширенные_возможности">Основы SQL, расширенные возможности</a>
+3. <a href="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/tree/main/1_Основы_SQL_расширенные_возможности">Основы SQL, расширенные возможности</a>
+#
 #### Для скачивания репозитория вам потребуется:
 1. Создать каталог для скачивания:
    ```bash
