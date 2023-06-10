@@ -1,7 +1,9 @@
 
 
 ## 1. Основы SQL, расширенные возможности
-#### 62 задачи
+## Раздел содержит в себе:
+* 7 учебных тем в состав которых входят
+  * 62 практические задачи
 <div>
 <img src="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/img/book.jpeg" title="Git" **alt="Git" width="40" height="40"/>  <a href="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/1_1_Простая_выборка_Склад">1.1 Простая выборка, "Склад" (11 задач)</a>  &nbsp; 
 </div> 
