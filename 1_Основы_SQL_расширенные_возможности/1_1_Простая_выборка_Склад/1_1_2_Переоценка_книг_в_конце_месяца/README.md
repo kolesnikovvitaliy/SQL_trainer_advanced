@@ -5,11 +5,15 @@
 * Столбцы назвать Автор, Книга, Количество, Скидка, Новая_цена. 
 *  Информацию отсортировать сначала по автору в алфавитном порядке, а затем по названию книги также в алфавитном порядке.
 
-Структура таблицы
+## Структура таблицы
 
 <img align="center" alt="sumit" src="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/1_1_Простая_выборка_Склад/1_1_2_Переоценка_книг_в_конце_месяца/img/cx_5_1.jpg">
 
-РЕШЕНИЕ ЗАДАЧИ:
+## Ответ базы данных должен выглядеть так:
+
+<img align="center" alt="sumit" src="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/1_1_Простая_выборка_Склад/1_1_2_Переоценка_книг_в_конце_месяца/img/res.png">
+
+## РЕШЕНИЕ ЗАДАЧИ:
 
 ```SQL
 SELECT author as Автор, title as Книга, amount as Количество,
@@ -24,7 +28,3 @@ SELECT author as Автор, title as Книга, amount as Количество
 FROM book
 ORDER BY Автор, Книга;
  ```
-Ответ базы данных:
-
-<img align="center" alt="sumit" src="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/1_1_Простая_выборка_Склад/1_1_2_Переоценка_книг_в_конце_месяца/img/res.png">
-
