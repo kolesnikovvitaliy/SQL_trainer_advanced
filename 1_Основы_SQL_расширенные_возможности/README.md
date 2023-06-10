@@ -1,11 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://github.com/kolesnikovvitaliy/SQL_trainer_advanced/blob/main/1_Основы_SQL_расширенные_возможности/css/fonts.css">
-</head>
-<body>
+
+<style>
+.lesson-widget__cover-image {
+    height: 45px;
+    width: 45px;
+    font-size: 24px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+    font-weight: 300;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.lesson-widget__cover {
+    position: relative;
+    margin-right: 20px;
+}
+.lesson-widget__title {
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    font-size: 18px;
+    line-height: 1.33;
+    position: relative;
+}
+.lesson-widget__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 0;
+    margin-right: auto;
+    flex-basis: 95%;
+}
+a.lesson-widget__title-text {
+    --link-color: currentColor;
+    --link-line-color: transparent;
+}
+.lesson-widget__content {
+    padding: 12px 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+</style>
+
 ## Основы SQL, расширенные возможности
 <div class="lesson-widget__content">
       <div class="lesson-widget__cover">
@@ -32,5 +73,3 @@
 1.6 Вложенные запросы, табличные выражения "Резюме" 7 / 7
   
 1.7 Запросы корректировки, "Склад" 9/9
-</body>
-</html>
