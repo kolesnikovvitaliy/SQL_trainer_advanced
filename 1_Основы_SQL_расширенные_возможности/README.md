@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
 <style>
 .lesson-widget__cover-image {
     height: 45px;
@@ -72,3 +80,5 @@ a.lesson-widget__title-text {
 1.6 Вложенные запросы, табличные выражения "Резюме" 7 / 7
   
 1.7 Запросы корректировки, "Склад" 9/9
+</body>
+</html>
